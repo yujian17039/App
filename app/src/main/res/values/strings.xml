@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">PMMC</string>
+    <string name="addnew">addNew</string>
+    <string name="refresh">reFresh</string>
+    <string name="chart">Chart</string>
+    <string name="setting">Setting</string>
+    <string name="mainactivitytitle">My Daily Dose History</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="glucosepageTitle">Glucose Data</string>
+    <string name="insulinpagetitle">Record Insulin Dose</string>
+
+    <string name="glucsebutton">Submit Glucose</string>
+    <string name="insulinbutton">Submit Insulin Dose</string>
+
+    <string name="insulinfieldhint">Input Insulin Dose</string>
+    <string name="glucosefieldhint">Input Glucose</string>
+    <string name="testingdatefieldhint">Date</string>
+
+    <string name="chartTitle">Glucose Trend Chart</string>
+    <string name="editpageTitle">Edit Daily Info</string>
+
+    <string name="httphost">localhost</string>
+    <string name="httpservice">pmmcservice</string>
+
+    <string name="userInfoTitle">User Information</string>
+    <string name="btnuserinfo">Save User Info</string>
+    <string name="LastName">Last Name</string>
+    <string name="firstName">First Name</string>
+    <string name="userphonenumber">User Telephone Number</string>
+    <string name="predictedinsulin">Predicted Insulin Dose</string>
+
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="sett_reminder_header">Set Reminder</string>
+    <string name="Set_Alert">Set Alert</string>
+    <string name="sett_reminder_label">Remind Me</string>
+
+    <string name="sett_reminder_desc">We will remind you to make entiries of your expense</string>
+
+    <string name="sett_reminder_time_label">Set Glucose Reminder Time</string>
+
+    <string name="sett_reminder_time_content">8 : 00 AM</string>
+
+    <string name="glucose_remind_title">Glucose Test</string>
+    <string name="glucose_remind_desc">Glucose Test Time is comming</string>
+
+    <string name="alerttitle">Alert</string>
+
+    <string name="glucose_out_of_range">Glucose value is out of range</string>
+    <string name="insulin_out_of_range">Insulin value is out of range</string>
+    <string name="editsubmitbutton">Submit Change</string>
+    <string name="set_Ins_reminder_time_level">Set Insulin Reminder Time</string>
+</resources>

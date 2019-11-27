@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/refresh"
+        android:icon="@drawable/refresh"
+        android:orderInCategory="100"
+        android:title="@string/refresh"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/addNew"
+        android:icon="@drawable/new_icon"
+        android:orderInCategory="102"
+        android:title="@string/addnew"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/viewChart"
+        android:icon="@drawable/chart_icon"
+        android:orderInCategory="104"
+        android:title="@string/chart"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/myInfo"
+        android:icon="@drawable/setting_icon"
+        android:orderInCategory="108"
+        android:title="@string/setting"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/alert"
+        android:icon="@drawable/ic_add_alert"
+        android:orderInCategory="110"
+        android:title="@string/Set_Alert"
+        app:showAsAction="ifRoom" />
+
+</menu>
